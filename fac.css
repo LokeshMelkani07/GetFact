@@ -1,0 +1,17 @@
+#fact {
+    display: none;
+    font-weight: bold;
+    color: green;
+}
+
+h1 {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+h4 {
+    font-weight: bold;
+}
+
+p {
+    font-family: 'Montserrat', sans-serif;
+}
